@@ -41,5 +41,10 @@ FusionOS/
 ## Contribution
 We welcome contributions to the development of FusionOS! If you have suggestions for improvements or want to contribute code, you are welcome to open a pull request.
 
+## Dependencies
+- Qt Framework: Version 5.x or later (https://www.qt.io/download)
+- Visual Studio 2022: For developing and building the project (https://visualstudio.microsoft.com/)
+- Git: For project cloning and version control (https://git-scm.com/)
+
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
